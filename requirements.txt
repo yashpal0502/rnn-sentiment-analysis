@@ -1,0 +1,13 @@
+# Core
+torch
+numpy
+pandas
+scikit-learn
+nltk
+
+# Visualisation
+matplotlib
+seaborn
+
+# Notebooks
+jupyter
