@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Author** | <Your Name> |
+| **Author** | Yashpal |
 | **Date** | October 2026 |
 | **Code** | `https://github.com/yashpal0502/rnn-sentiment-analysis.git` |
 | **Version** | 1.0 — baseline Simple RNN |
